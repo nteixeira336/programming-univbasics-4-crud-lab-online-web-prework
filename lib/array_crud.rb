@@ -22,7 +22,7 @@ def remove_element_from_start_of_array(array)
 Lannister=hogwarts_houses.shift  
 end
 
-def retrieve_element_from_index(hogwarts_houses, 0)
+def retrieve_element_from_index(array, 0)
 hogwarts_houses [0]   
 end
 
